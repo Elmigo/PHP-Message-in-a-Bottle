@@ -15,3 +15,5 @@ Anonymously write a message using simple markdown and share the link with someon
 6. Copy the URL generated in your browsers address bar
 7. Share the URL with someone who may read your message
 8. Do not open your own link, the message self-destructs!
+
+[See Preview](https://shred.elmigo.nl)
