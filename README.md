@@ -1,4 +1,5 @@
 # PHP Anonymous Self-Destructing Message
+[See Preview](https://shred.elmigo.nl)
 ## Light weight one-page message system
 This script works on its own and requires nothing but the page itself. It can be uploaded anywhere on a server where PHP is enabled.
 
