@@ -1,5 +1,7 @@
 # PHP Anonymous Self-Destructing Message
 [See Preview](https://shred.elmigo.nl)
+## You can read it only once, ever!
+Write a message and share the link. The message can only be read once, ever! After reading the message, it will self-destruct. After a set amount of hours, the message will automatically self destruct.
 ## Light weight one-page message system
 This script works on its own and requires nothing but the page itself. It can be uploaded anywhere on a server where PHP is enabled.
 
