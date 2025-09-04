@@ -1,5 +1,6 @@
 # PHP Anonymous Self-Destructing Message
 [See Preview](https://shred.elmigo.nl)
+
 Self-hosted Anonymous Self-destructing Message-in-a-Bottle Script with Minimal Design, Language Support and Customized Settings.
 ## You can read it only once, ever!
 Anonymously write a message and share the link. The message can only be read once, ever! After reading the message, it will self-destruct. After a set amount of hours, the message will automatically self destruct. This script works on its own and requires nothing but the page itself. It can be uploaded anywhere on a server where PHP is enabled, and it has been tested for PHP 8.1 specifically.
